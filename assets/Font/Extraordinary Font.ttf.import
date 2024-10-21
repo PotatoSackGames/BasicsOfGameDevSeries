@@ -1,0 +1,34 @@
+[remap]
+
+importer="font_data_dynamic"
+type="FontFile"
+uid="uid://oyrl5ffooono"
+path="res://.godot/imported/Extraordinary Font.ttf-08d8cea9c2147e77c8b4cc1e7c3ae0f0.fontdata"
+
+[deps]
+
+source_file="res://assets/Font/Extraordinary Font.ttf"
+dest_files=["res://.godot/imported/Extraordinary Font.ttf-08d8cea9c2147e77c8b4cc1e7c3ae0f0.fontdata"]
+
+[params]
+
+Rendering=null
+antialiasing=1
+generate_mipmaps=false
+disable_embedded_bitmaps=true
+multichannel_signed_distance_field=false
+msdf_pixel_range=8
+msdf_size=48
+allow_system_fallback=true
+force_autohinter=false
+hinting=1
+subpixel_positioning=1
+oversampling=0.0
+Fallbacks=null
+fallbacks=[]
+Compress=null
+compress=true
+preload=[]
+language_support={}
+script_support={}
+opentype_features={}
